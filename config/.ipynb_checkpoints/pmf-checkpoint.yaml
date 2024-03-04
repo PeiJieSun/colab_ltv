@@ -1,0 +1,8 @@
+dataset: steam-v1
+processed_data_path: /root/autodl-fs/pmf_torch/processed_data/steam-v1
+batch_size: 2048
+epoches: 500
+no_cuda: False
+seed: 1
+weight_decay: 0.001
+ratio: 0.8
